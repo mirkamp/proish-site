@@ -1,0 +1,193 @@
+/*********** BASIC ***********/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+  color: #352f44;
+  margin: 50px auto 0 auto;
+  font-family: 'Rock Salt', cursive;
+  font-size: 3.5rem;
+}
+
+h2 {
+  color: #352f44;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  margin: 0 auto 0 auto;
+}
+
+h3 {
+  color: #2a2438;
+  font-size: 1.4rem;
+  font-family: 'Montserrat', cursive;
+  margin: 20px auto 20px auto;
+}
+
+hr {
+  border: dotted #dbd8e3 6px;
+  border-bottom: none;
+  width: 15%;
+  margin: 50px auto 50px auto;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+.top {
+  background-color: #dbd8e3;
+  position: relative;
+  padding-top: 100px;
+  /*<div class="top" style="
+    border-top-width: 10px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    width: 200px;
+    height: 200px;
+    border: solid 20px;*/
+}
+
+.middle {
+
+  /*margins and putting it in the middle etc: <div class="middle" style="
+    margin-left: 280px;
+    border: 20px;
+    border: solid 10px;
+    border width:;*/
+}
+
+.bottom {
+
+}
+
+.web {
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.profile {
+  width: 60%;
+  margin: 50px auto 50px auto;
+}
+
+.profile_pic {
+  width: 17%;
+  margin: auto auto 25px auto;
+  border-radius: 100%
+}
+
+.skill-row {
+  width: 60%;
+  margin: 50px auto 60px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.Trip_planner {
+  margin: 25px 25px auto auto;
+  width: 17%;
+  float: right;
+}
+
+.JDE_pic {
+  margin: 25px 25px 25px auto;
+  width: 15%;
+  float: left;
+}
+
+.yoga-row {
+  width: 60%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.yogi {
+  float: left;
+  margin: 25px 25px auto auto;
+}
+
+.eco-row {
+  width: 60%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.eco_pic {
+  float: right;
+  margin: 25px 25px auto auto;
+}
+
+.btn {
+
+}
+
+.contact-me {
+  margin: 50px auto 50px auto;
+}
+
+.btn {
+  background: #81779c;
+  background-image: -webkit-linear-gradient(top, #81779c, #4e485e);
+  background-image: -moz-linear-gradient(top, #81779c, #4e485e);
+  background-image: -ms-linear-gradient(top, #81779c, #4e485e);
+  background-image: -o-linear-gradient(top, #81779c, #4e485e);
+  background-image: linear-gradient(to bottom, #81779c, #4e485e);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Rock Salt';
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #b2a7d1;
+  background-image: -webkit-linear-gradient(top, #b2a7d1, #60508a);
+  background-image: -moz-linear-gradient(top, #b2a7d1, #60508a);
+  background-image: -ms-linear-gradient(top, #b2a7d1, #60508a);
+  background-image: -o-linear-gradient(top, #b2a7d1, #60508a);
+  background-image: linear-gradient(to bottom, #b2a7d1, #60508a);
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #5c5470;
+  padding: 50px 0 20px;
+}
+
+.footer-link {
+  color: #352f44;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  margin: 10px 10px 10px 10px;
+  text-decoration: none;
+}
+.footer-link:hover {
+  color: #dbd8e3
+}
+
+.copywr {
+  color: #dbd8e3;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
